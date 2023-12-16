@@ -1,0 +1,14 @@
+﻿  DisableTouchscreen.cpp
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(8,18): warning C4566: character represented by universal-character-name '\u2665' cannot be represented in the current code page (1252)
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(13,22): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(22,34): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(22,34): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(26,30): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(26,30): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\p4n\source\repos\DisableTouchscreen\DisableTouchscreen\DisableTouchscreen.cpp(32,18): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+DisableTouchscreen.obj : error LNK2019: unresolved external symbol __imp_SetupDiEnumDeviceInfo referenced in function main
+DisableTouchscreen.obj : error LNK2019: unresolved external symbol __imp_SetupDiDestroyDeviceInfoList referenced in function main
+DisableTouchscreen.obj : error LNK2019: unresolved external symbol __imp_SetupDiGetClassDevsW referenced in function main
+DisableTouchscreen.obj : error LNK2019: unresolved external symbol __imp_SetupDiCallClassInstaller referenced in function main
+DisableTouchscreen.obj : error LNK2019: unresolved external symbol __imp_SetupDiGetDeviceRegistryPropertyW referenced in function main
+C:\Users\p4n\source\repos\DisableTouchscreen\x64\Debug\DisableTouchscreen.exe : fatal error LNK1120: 5 unresolved externals
